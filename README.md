@@ -58,7 +58,7 @@
 
   <br>
   
-  <div align=center style="padding-top: 20px;">
+  <div align=center style="padding-top: 120px;">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nxn404-n&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </div>
   <br>
