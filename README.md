@@ -64,26 +64,14 @@
   <br>
   
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nxn404-n&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
+  <br><br><br><br><br><br><br><br><br>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=nxn404-n&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+  ![Adil's github stats](https://github-readme-stats.vercel.app/api?username=nxn404-n&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 </p>
-
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/nxn404-n/Awesome-Books" title="Awesome-Books"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn404-n&repo=Awesome-Books&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/nxn404-n/Capstone-Module1" title="Capstone-Module1"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn404-n&repo=Capstone-Module1&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/nxn404-n/Portfolio-M1" title="Portfolio-M1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn404-n&repo=Portfolio-M1&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/nxn404-n/Bootstrap-website" title="Bootstrap-website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn404-n&repo=Bootstrap-website&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/nxn404-n/Using-webpack" title="Using-webpack"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn404-n&repo=Using-webpack&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/nxn404-n/To-Do-list" title="To-Do-list"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nxn404-n&repo=To-Do-list&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
   <a href="https://github.com/nxn404-n?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
