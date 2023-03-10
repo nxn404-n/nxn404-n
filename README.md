@@ -64,7 +64,7 @@
   </div>
 
   
-  <div align=center style="margin-top: 50px;">
+  <div align=center style="margin-top: 50px !important;">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nxn404-n&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </div>
 
