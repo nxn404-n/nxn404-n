@@ -71,6 +71,7 @@
   <br><br>
 
   <div align=center>
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=nxn404-n&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   </div>
 </p>
