@@ -50,7 +50,7 @@
   <div align=center>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=nxn404-n&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-  
+
   </div>
   <br>
 
@@ -64,7 +64,7 @@
   </div>
 
   
-  <div align=center style="padding-top: 20px;">
+  <div align=center style="margin-top: 50px;">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nxn404-n&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </div>
 
