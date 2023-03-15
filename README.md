@@ -23,9 +23,9 @@
   <br>
   📚 I’m currently learning Javascript
   <br>
-  Here is my portfolio <a href="#">Portfolio will be added later</a>
-  <br>
   💬 Ask me anything about from <a href="https://github.com/nxn404-n/nxn404-n/issues" title="Issues">Here</a>
+  <br>
+  Here is my portfolio: <a href="#">Portfolio will be added later</a>
   <br>
   📫 How to reach me: <a href="mailto: nafeurrahmanadil@gmail.com">nafeurrahmanadil@gmail.com</a>
 </p>
