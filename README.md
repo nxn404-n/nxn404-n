@@ -28,8 +28,6 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/nxn404-n/nxn404-n/issues" title="Issues">Here</a>
   <br>
-  My portfolio: <a href="https://nxn404-n.github.io/Portfolio-M1/">Here</a>
-  <br>
   📫 How to reach me: <a href="mailto: nafeurrahmanadil@gmail.com">nafeurrahmanadil@gmail.com</a>
 </p>
 
