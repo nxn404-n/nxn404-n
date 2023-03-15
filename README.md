@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Nafeur Rahman Adil, I'm a Full-stack Developer.
+  Hi, I'm Nafeur Rahman Adil, I'm a Full-stack Developer, and I'm looking for exciting job opportunities
   <br>
   <br>
   🔬 I'm currently studying for a bachelor's degree in English and in a web development bootcamp named Microverse.
@@ -23,6 +23,7 @@
   <br>
   📚 I’m currently learning Javascript
   <br>
+  Here is my portfolio <a href="#">Portfolio will be added later</a>
   💬 Ask me anything about from <a href="https://github.com/nxn404-n/nxn404-n/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: nafeurrahmanadil@gmail.com">nafeurrahmanadil@gmail.com</a>
