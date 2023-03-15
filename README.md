@@ -7,12 +7,15 @@
 </h1>
 
 <h5 align="center">
+  <code><a href="https://nxn404-n.github.io/Portfolio-M1/" title="Portfolio"><img width="22" src="images/port.png"> Portfolio</a></code>
   <code><a href="https://www.linkedin.com/in/nafeurrahmanadil/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/nxn_404" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twotter</a></code>
+  <code><a href="https://twitter.com/nxn_404" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twitter</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Nafeur Rahman Adil, I'm a Full-stack Developer, and I'm looking for exciting job opportunities
+  Hi, I'm Nafeur Rahman Adil, I'm a Full-stack Developer, and I'm looking for exciting job opportunities.
+  <br>
+  (*Available for hire*)
   <br>
   <br>
   🔬 I'm currently studying for a bachelor's degree in English and in a web development bootcamp named Microverse.
@@ -25,7 +28,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/nxn404-n/nxn404-n/issues" title="Issues">Here</a>
   <br>
-  Here is my portfolio: <a href="#">Portfolio will be added later</a>
+  My portfolio: <a href="https://nxn404-n.github.io/Portfolio-M1/">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: nafeurrahmanadil@gmail.com">nafeurrahmanadil@gmail.com</a>
 </p>
