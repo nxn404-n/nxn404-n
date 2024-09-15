@@ -68,19 +68,6 @@
     </a>
   </div>
 
-  
-  <div align=center>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nxn404-n&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  </div>
-
-  <br>
-
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxn404-n&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-</p>
 
 <h4 align="center">
   <a href="https://github.com/nxn404-n?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
