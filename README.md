@@ -67,8 +67,3 @@
       <img align="right" width=390 height=170 src="https://github-readme-stats.vercel.app/api?username=nxn404-n&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-
-
-<h4 align="center">
-  <a href="https://github.com/nxn404-n?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
