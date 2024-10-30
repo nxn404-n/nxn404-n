@@ -13,22 +13,20 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Nafeur Rahman Adil, I'm a Full-stack Developer, and I'm looking for exciting job opportunities.
+  Hi, I'm Nafeur Rahman Adil, I'm a front-end web Developer, and I'm looking for exciting job opportunities.
   <br>
   (*Available for hire*)
   <br>
   <br>
-  🔬 I'm currently studying for a bachelor's degree in English and in a web development bootcamp named Microverse.
+  🔬 I'm currently learning nodejs, expressjs and mongoDB.
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learn new languages and frameworks.
   <br>
   🧩 I love solving coding problems
   <br>
-  📚 I’m currently learning Javascript
-  <br>
   💬 Ask me anything about from <a href="https://github.com/nxn404-n/nxn404-n/issues" title="Issues">Here</a>
   <br>
-  Here is my portfolio: <a href="https://nxn404-n.github.io/Portfolio-M1/">Portfolio</a>
+  Here is my portfolio: <a href="https://nafeurrahmanadil.netlify.app/" target="_blank">Portfolio</a>
   <br>
   📫 Here is my email: <a href="mailto: nafeurrahmanadil@gmail.com">nafeurrahmanadil@gmail.com</a>
 </p>
